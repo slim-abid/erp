@@ -1,0 +1,49 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    align-content: center;
+    margin-left: 30em;
+    padding-top: 0em !important;
+    margin-top: 0em !important;
+
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+.question{
+    background-color: black;
+    color : white;
+}
+h1{
+    font-size: medium;
+}
+.presentation_form{
+    text-align: center;
+    padding-right: 20em;
+    padding-left: 20em;
+    margin-top:10em;
+    padding-top: 10em;
+
+}
+.pres{
+    font-size: medium;
+}
+#blank_space{
+    margin-bottom: 0px;
+    padding-bottom:0px ;
+}
+.btn{
+    align-content: center;
+    text-align: center;
+    margin-left: 30em;
+    margin-bottom: 5em;
+    margin-top: 4em;
+    font-size: 1.5em;
+}
